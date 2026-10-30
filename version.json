@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 3,
+  "versionName": "1.0.3",
+  "versionCode": 4,
   "changelog": [
-    "100% Realtime Instagram: Home timeline, Stories, Reels & Direct Messages aktif",
-    "Ghost Shield Realtime: Nonton Story & baca DM tanpa ketahuan (seen dicegat di jaringan)",
-    "Tombol Download HD Melayang: Unduh Story, Reels & Postingan dalam 1-klik langsung ke galeri",
-    "Ad-Blocker & Clean View: Iklan bersponsor dan pop-up paksaan disembunyikan",
-    "Pembaruan Otomatis (OTA Updater 1-Klik) di tab Privasi"
+    "Perbaikan: Hapus tab bar duplikat. Navigasi bawah kini 100% bawaan resmi Instagram",
+    "Posisi Tombol Unduh: Tombol floating download melayang rapi di atas tab bar resmi",
+    "Realtime Feed, Stories, Reels, dan Direct Messages",
+    "Ghost Shield aktif (seen story & DM diblokir)",
+    "Pembaruan OTA 1-Klik aktif"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.2/bahrigram.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.3/bahrigram.apk"
 }
