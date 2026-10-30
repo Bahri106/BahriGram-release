@@ -1,12 +1,13 @@
 {
-  "versionName": "1.0.3",
-  "versionCode": 4,
+  "versionName": "1.0.4",
+  "versionCode": 5,
   "changelog": [
-    "Perbaikan: Hapus tab bar duplikat. Navigasi bawah kini 100% bawaan resmi Instagram",
-    "Posisi Tombol Unduh: Tombol floating download melayang rapi di atas tab bar resmi",
-    "Realtime Feed, Stories, Reels, dan Direct Messages",
-    "Ghost Shield aktif (seen story & DM diblokir)",
-    "Pembaruan OTA 1-Klik aktif"
+    "Fix Downloader: 100% andal unduh Story, Reels, Postingan Video & Foto HD langsung ke Galeri",
+    "UI Privasi RyFy Style: Header Logo Bgram gradient, Menu Pengembang (Saiful Bahri), dan Info Engine",
+    "Ganti Nama Aplikasi Kustom: Nama aplikasi di header bisa diubah bebas (Instagram / BahriGram / Custom)",
+    "Ganti Ikon Aplikasi: Pilihan ikon peluncur (Bgram Gradient, Instagram Resmi, Bgram Stealth Mono)",
+    "Ghost Shield Pro: Pencegatan ganda level WebView & JavaScript untuk Story, DM, dan Live",
+    "Ad-Blocker Pro: Pemblokir dinamis agresif membasmi semua konten bersponsor & banner aplikasi"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.3/bahrigram.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.4/bahrigram.apk"
 }
