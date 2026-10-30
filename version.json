@@ -1,12 +1,17 @@
 {
-  "versionName": "1.0.5",
-  "versionCode": 6,
+  "versionName": "1.0.6",
+  "versionCode": 7,
   "changelog": [
-    "Fix Ghost DM: Cegat mutasi GraphQL useIGDMarkThreadAsReadMutation & frame WebSocket MQTT (tanda 'Dilihat' diblokir 100%)",
-    "Fix Ghost Story: Cegat mutasi GraphQL PolarisStoriesV3SeenMutation secara agresif",
-    "R8 Minified: Ukuran APK super ramping hanya 2.0 MB (turun 90% dari 19.5 MB)",
-    "Downloader HD 1-Klik: Unduh Story, Reels, Video & Foto langsung ke Galeri /DCIM/BahriGram/",
-    "Kustomisasi RyFy Style: Ganti nama aplikasi bebas, ganti icon aplikasi (Instagram/Bgram), profil Saiful Bahri"
+    "Rebrand IGramPlus: Beranda 100% fullscreen Instagram resmi murni (tanpa top bar)",
+    "Dual FAB Kanan Bawah: Cincin Meta AI gradient ring & FAB Download HD",
+    "Alur Baru Download: Dialog tempel tautan (auto-clipboard) & unduh dari layar aktif",
+    "Opsi Sembunyikan FAB Download: Layar IG bisa dibuat 100% bersih tanpa tombol",
+    "Pull to Refresh Native di puncak beranda",
+    "Fix Anti-Tarik Pesan: Pesan DM yang ditarik pengirim tetap tampil dengan label [Pesan Ditarik]",
+    "Fix Ghost Live: Nonton siaran langsung tanpa nama akun kamu muncul di daftar penonton host",
+    "Fix Scroll Freeze & Iklan Judol: Pembersihan iklan via GPU, timeline lancar tanpa blank hitam",
+    "UI Privasi 3 Tab Kompak (Siluman, Tampilan, Developer) pas di layar tanpa perlu scroll",
+    "Tim Pengembang: Saiful Bahri (Founder & Owner) & Diki Dev / Towartz (Co-Founder) dengan link Telegram & GitHub"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.5/bahrigram.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.6/igramplus.apk"
 }
