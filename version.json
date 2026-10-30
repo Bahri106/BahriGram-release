@@ -1,13 +1,12 @@
 {
-  "versionName": "1.0.4",
-  "versionCode": 5,
+  "versionName": "1.0.5",
+  "versionCode": 6,
   "changelog": [
-    "Fix Downloader: 100% andal unduh Story, Reels, Postingan Video & Foto HD langsung ke Galeri",
-    "UI Privasi RyFy Style: Header Logo Bgram gradient, Menu Pengembang (Saiful Bahri), dan Info Engine",
-    "Ganti Nama Aplikasi Kustom: Nama aplikasi di header bisa diubah bebas (Instagram / BahriGram / Custom)",
-    "Ganti Ikon Aplikasi: Pilihan ikon peluncur (Bgram Gradient, Instagram Resmi, Bgram Stealth Mono)",
-    "Ghost Shield Pro: Pencegatan ganda level WebView & JavaScript untuk Story, DM, dan Live",
-    "Ad-Blocker Pro: Pemblokir dinamis agresif membasmi semua konten bersponsor & banner aplikasi"
+    "Fix Ghost DM: Cegat mutasi GraphQL useIGDMarkThreadAsReadMutation & frame WebSocket MQTT (tanda 'Dilihat' diblokir 100%)",
+    "Fix Ghost Story: Cegat mutasi GraphQL PolarisStoriesV3SeenMutation secara agresif",
+    "R8 Minified: Ukuran APK super ramping hanya 2.0 MB (turun 90% dari 19.5 MB)",
+    "Downloader HD 1-Klik: Unduh Story, Reels, Video & Foto langsung ke Galeri /DCIM/BahriGram/",
+    "Kustomisasi RyFy Style: Ganti nama aplikasi bebas, ganti icon aplikasi (Instagram/Bgram), profil Saiful Bahri"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.4/bahrigram.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.5/bahrigram.apk"
 }
