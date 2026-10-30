@@ -1,13 +1,13 @@
 {
-  "versionName": "1.0.8",
-  "versionCode": 9,
+  "versionName": "1.0.9",
+  "versionCode": 10,
   "changelog": [
-    "Fix Anti-Unsend Permanen: Pesan ditarik tersimpan permanen di brankas chat lokal & tidak hilang saat re-render React",
-    "Riwayat Pesan Ditarik: Ditampilkan di bagian atas chat dengan waktu penarikan & tombol bersihkan",
-    "Anti-Tarik Akurat: Tidak memengaruhi daftar inbox percakapan",
-    "100% Fullscreen IGramPlus: Tanpa top bar pengganggu, dual FAB Meta AI & Download",
-    "Alur Download Tautan: Auto-detect papan klip & unduh video/foto HD langsung ke galeri",
-    "Ghost Shield Lengkap: Ghost Story, Ghost DM, dan Ghost Live Streaming"
+    "Fix Anti-Unsend 3 Lapis Permanen: Pesan ditarik tidak akan hilang saat keluar & masuk kembali ke chat room",
+    "Layer 1: Cegat frame unsend realtime di WebSocket incoming (cegah penghapusan bubble di layar)",
+    "Layer 2: Injeksi pesan yang pernah ditarik ke dalam respon server fetch/GraphQL saat membuka room chat",
+    "Layer 3: Brankas memori chat lokal & kartu riwayat pesan ditarik di bagian atas chat room",
+    "Rebrand IGramPlus 100% Fullscreen resmi, Dual FAB Meta AI & Download HD",
+    "Ghost Shield aktif (seen story, DM read receipt, dan live presence dicegat)"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.8/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.9/igramplus.apk"
 }
