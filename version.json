@@ -1,17 +1,16 @@
 {
-  "versionName": "1.0.6",
-  "versionCode": 7,
+  "versionName": "1.0.7",
+  "versionCode": 8,
   "changelog": [
-    "Rebrand IGramPlus: Beranda 100% fullscreen Instagram resmi murni (tanpa top bar)",
-    "Dual FAB Kanan Bawah: Cincin Meta AI gradient ring & FAB Download HD",
+    "Fix Bug Anti-Tarik: Bersihkan label [Pesan Ditarik] palsu di daftar percakapan (inbox list)",
+    "Anti-Unsend Akurat: Perlindungan pesan ditarik hanya aktif khusus di dalam ruang obrolan obrolan aktif",
+    "Rebrand Resmi IGramPlus: Tampilan 100% fullscreen asli Instagram tanpa top bar",
+    "Dual FAB Kanan Bawah: Cincin gradien Meta AI (menu mod) & FAB Download HD",
     "Alur Baru Download: Dialog tempel tautan (auto-clipboard) & unduh dari layar aktif",
-    "Opsi Sembunyikan FAB Download: Layar IG bisa dibuat 100% bersih tanpa tombol",
-    "Pull to Refresh Native di puncak beranda",
-    "Fix Anti-Tarik Pesan: Pesan DM yang ditarik pengirim tetap tampil dengan label [Pesan Ditarik]",
-    "Fix Ghost Live: Nonton siaran langsung tanpa nama akun kamu muncul di daftar penonton host",
-    "Fix Scroll Freeze & Iklan Judol: Pembersihan iklan via GPU, timeline lancar tanpa blank hitam",
-    "UI Privasi 3 Tab Kompak (Siluman, Tampilan, Developer) pas di layar tanpa perlu scroll",
-    "Tim Pengembang: Saiful Bahri (Founder & Owner) & Diki Dev / Towartz (Co-Founder) dengan link Telegram & GitHub"
+    "Sembunyikan FAB Download: Opsi sembunyikan tombol download agar layar 100% bersih",
+    "Pull to Refresh: Tarik ke bawah di puncak beranda untuk segarkan timeline",
+    "Ghost Shield: Blokir seen story, DM read receipt, dan live stream presence",
+    "Tim Pengembang: Saiful Bahri (Founder & Owner) & Diki Dev / Towartz (Co-Founder) dengan tautan Telegram & GitHub"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.6/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.7/igramplus.apk"
 }
