@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.15",
-  "versionCode": 16,
+  "versionName": "1.0.16",
+  "versionCode": 17,
   "changelog": [
-    "Tampilan Chat 100% Bersih: Seluruh injeksi gelembung/tag di dalam ruang chat dihapus total",
-    "Auto-Cleaner DOM: Otomatis menghapus seluruh sisa label merah cacat dari versi sebelumnya",
-    "Pesan Ditarik Murni di FAB: Cukup ketuk FAB Hapus (🗑️) di sudut layar untuk melihat popup pesan yang ditarik beserta jamnya",
-    "Pembersihan Teks Sampah: Teks pesan bersih dari kata tombol IG ('SalinLaporkanBalas')",
-    "Semua FAB Draggable, Keyboard IME Lift, & Pull to Refresh aktif"
+    "Dukungan Pemulihan Foto & Video Ditarik: Foto dan video yang dihapus kini otomatis tersimpan di brankas",
+    "Tonton & Unduh Media Ditarik: Pop-up FAB Hapus (🗑️) menampilkan pratinjau foto/video, tombol tonton/putar, dan tombol unduh HD",
+    "Pencegat Media XHR/Fetch & DOM: Merekam URL media HD sebelum ditarik pengirim",
+    "Tampilan Chat 100% Bersih & Native: Nol sampah gelembung di alur chat",
+    "Pembersihan Teks Sampah & Semua FAB Draggable aktif"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.15/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.16/igramplus.apk"
 }
