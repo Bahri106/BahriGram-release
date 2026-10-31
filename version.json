@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.19",
-  "versionCode": 20,
+  "versionName": "1.0.20",
+  "versionCode": 21,
   "changelog": [
-    "Fix Layar Blank Hitam Saat Scroll: Menghapus force hardware layer buffer yang melampaui batas GPU limit",
-    "Fix Video Hitam Tidak Muncul: Menghapus pembatasan preload video agar player native Instagram memuat video normal",
-    "Fix CSS Stacking Context: Menghapus transform translateZ pada elemen feed yang merusak tile renderer Chromium",
-    "Anti-Unsend Cloud Vault 24 Jam di VPS aktif",
-    "Pratinjau Foto In-App & Downloader Media HD aktif"
+    "Fix Total Feed Blank Hitam: Menghapus aturan CSS about_this_account yang keliru menyembunyikan postingan beranda",
+    "Fix Feed Pagination Stalling: Menghapus pencegatan ajax/bz dan seen broad yang membuat scroll beranda muter lama",
+    "Safe Header-Only Sponsored Blocker: Hanya sembunyikan iklan lewat header tanpa menyentuh postingan berkomen spam",
+    "Anti-Hanging XHR: Dispatch event load resmi pada request yang dicegat agar browser tidak freeze",
+    "Anti-Unsend Cloud Vault 24 Jam di VPS aktif"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.19/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.20/igramplus.apk"
 }
