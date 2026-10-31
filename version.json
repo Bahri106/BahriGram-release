@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.17",
-  "versionCode": 18,
+  "versionName": "1.0.18",
+  "versionCode": 19,
   "changelog": [
-    "Fix Tombol 'Lihat' Foto Ditarik: Pratinjau foto resolusi penuh langsung di dalam aplikasi (tanpa error No Activity found)",
-    "Fix Unduh Data URI: Dukungan unduh instan foto base64/data URI langsung ke Galeri/DCIM (tanpa error unknown protocol)",
-    "Penangkapan Resolusi HD: Mencegat URL CDN asli via srcset & currentSrc sebelum ditarik",
-    "Player Video FileProvider: Dukungan putar video lokal ditarik via secure FileProvider",
-    "Semua FAB Draggable & Alur Chat 100% Bersih"
+    "Anti-Unsend Cloud (VPS 24 Jam): Sinkronisasi otomatis ke cloud vault VPS tanpa spam Telegram (aman saat HP mati/reinstall)",
+    "Turbo Scroll & Anti Freeze: Hapus layout reflow synchronous, scroll beranda jauh lebih licin dan enteng",
+    "Data Saver & Anti-Preload: Hentikan download otomatis video di latar belakang sebelum terlihat (hemat kuota 60%+)",
+    "Hardware Acceleration GPU: Render native GPU tanpa beban blur CSS berat",
+    "Pratinjau Foto In-App & Downloader Media HD aktif"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.17/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.18/igramplus.apk"
 }
