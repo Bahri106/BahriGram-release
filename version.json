@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.18",
-  "versionCode": 19,
+  "versionName": "1.0.19",
+  "versionCode": 20,
   "changelog": [
-    "Anti-Unsend Cloud (VPS 24 Jam): Sinkronisasi otomatis ke cloud vault VPS tanpa spam Telegram (aman saat HP mati/reinstall)",
-    "Turbo Scroll & Anti Freeze: Hapus layout reflow synchronous, scroll beranda jauh lebih licin dan enteng",
-    "Data Saver & Anti-Preload: Hentikan download otomatis video di latar belakang sebelum terlihat (hemat kuota 60%+)",
-    "Hardware Acceleration GPU: Render native GPU tanpa beban blur CSS berat",
+    "Fix Layar Blank Hitam Saat Scroll: Menghapus force hardware layer buffer yang melampaui batas GPU limit",
+    "Fix Video Hitam Tidak Muncul: Menghapus pembatasan preload video agar player native Instagram memuat video normal",
+    "Fix CSS Stacking Context: Menghapus transform translateZ pada elemen feed yang merusak tile renderer Chromium",
+    "Anti-Unsend Cloud Vault 24 Jam di VPS aktif",
     "Pratinjau Foto In-App & Downloader Media HD aktif"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.18/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.19/igramplus.apk"
 }
