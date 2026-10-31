@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.12",
-  "versionCode": 13,
+  "versionName": "1.0.13",
+  "versionCode": 14,
   "changelog": [
-    "Fix Anti-Unsend Navigasi: Pesan yang ditarik tetap muncul saat keluar-masuk room chat",
-    "Restorer Gelembung Native: Otomatis merender gelembung pesan asli berlabel 🚫 [Pesan Ditarik] di alur chat",
-    "Tampilan 100% Bersih & Natural: Tanpa kotak brankas, persis seperti pesan Instagram resmi",
-    "Dual Realtime Dropper: WebSocket addEventListener & onmessage setter dropper aktif",
+    "Fix Realtime Retention: Gelembung pesan yang ditarik langsung terkunci di layar dengan tag [Pesan Ditarik]",
+    "Smart Anchor Restorer: Gelembung chat otomatis dipulihkan di alur percakapan saat masuk ulang ke room chat",
+    "Fitur Baru di Tab Siluman: 'Riwayat Pesan Ditarik' menyimpan seluruh pesan yang ditarik pengirim ke SQLite permanen",
+    "Tampilan 100% Bersih & Natural: Nol kotak brankas atas, persis obrolan Instagram resmi",
     "100% Fullscreen IGramPlus, Dual FAB (Meta AI & Download HD), Ghost Shield lengkap"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.12/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.13/igramplus.apk"
 }
