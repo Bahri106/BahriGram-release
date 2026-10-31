@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.10",
-  "versionCode": 11,
+  "versionName": "1.0.11",
+  "versionCode": 12,
   "changelog": [
-    "Fix Anti-Unsend: Scanner pesan aktif otomatis merekam semua chat di room sebelum ditarik",
-    "Fix Gzip Decoding Error: Injeksi pesan yang ditarik ke respon fetch tidak lagi menyebabkan error decoding",
-    "Gunakan textContent pada detached DOM node agar teks pesan yang ditarik terbaca 100%",
-    "Pesan yang ditarik tetap tampil di kartu riwayat dan gelembung chat saat keluar/masuk room",
+    "Hapus Total Kartu Brankas Atas: Tampilan chat bersih 100% natural tanpa kotak merah di atas",
+    "Anti-Unsend XHR Interceptor: Pesan yang ditarik otomatis disuntikkan kembali ke respon XHR/Fetch saat membuka ulang room chat",
+    "Realtime WebSocket Dropper: Intersep event listener & onmessage setter untuk memblokir perintah delete chat secara realtime",
+    "Pesan yang ditarik tetap berada di posisi aslinya di alur percakapan dengan label [Pesan Ditarik]",
     "100% Fullscreen IGramPlus, Dual FAB (Meta AI & Download), Ghost Shield lengkap"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.10/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.11/igramplus.apk"
 }
