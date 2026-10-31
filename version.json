@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.16",
-  "versionCode": 17,
+  "versionName": "1.0.17",
+  "versionCode": 18,
   "changelog": [
-    "Dukungan Pemulihan Foto & Video Ditarik: Foto dan video yang dihapus kini otomatis tersimpan di brankas",
-    "Tonton & Unduh Media Ditarik: Pop-up FAB Hapus (🗑️) menampilkan pratinjau foto/video, tombol tonton/putar, dan tombol unduh HD",
-    "Pencegat Media XHR/Fetch & DOM: Merekam URL media HD sebelum ditarik pengirim",
-    "Tampilan Chat 100% Bersih & Native: Nol sampah gelembung di alur chat",
-    "Pembersihan Teks Sampah & Semua FAB Draggable aktif"
+    "Fix Tombol 'Lihat' Foto Ditarik: Pratinjau foto resolusi penuh langsung di dalam aplikasi (tanpa error No Activity found)",
+    "Fix Unduh Data URI: Dukungan unduh instan foto base64/data URI langsung ke Galeri/DCIM (tanpa error unknown protocol)",
+    "Penangkapan Resolusi HD: Mencegat URL CDN asli via srcset & currentSrc sebelum ditarik",
+    "Player Video FileProvider: Dukungan putar video lokal ditarik via secure FileProvider",
+    "Semua FAB Draggable & Alur Chat 100% Bersih"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.16/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.17/igramplus.apk"
 }
