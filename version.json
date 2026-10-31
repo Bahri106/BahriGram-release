@@ -1,14 +1,12 @@
 {
-  "versionName": "1.0.14",
-  "versionCode": 15,
+  "versionName": "1.0.15",
+  "versionCode": 16,
   "changelog": [
-    "Semua FAB Bisa Digeser: FAB Meta AI, FAB Download, & FAB Unsend bisa diseret bebas ke mana saja",
-    "Fix Keyboard Melayang: Kolom input 'Kirim pesan...' otomatis terangkat naik tepat di atas keyboard",
-    "Fix Pull-to-Refresh: Tarik dari puncak beranda langsung memicu refresh timeline",
-    "FAB Khusus Deteksi Room Chat: Muncul otomatis saat buka obrolan DM untuk melihat pesan yang ditarik secara bersih",
-    "Pembersihan Teks Sampah: Pesan ditarik difilter bersih dari teks tombol IG ('SalinLaporkanBalas')",
-    "Tampilan Chat 100% Bersih & Natural: Nol kotak brankas & nol gelembung cacat di obrolan",
-    "Penjelasan Ghost Story di setelan (lingkaran story tetap menyala karena server dicegat)"
+    "Tampilan Chat 100% Bersih: Seluruh injeksi gelembung/tag di dalam ruang chat dihapus total",
+    "Auto-Cleaner DOM: Otomatis menghapus seluruh sisa label merah cacat dari versi sebelumnya",
+    "Pesan Ditarik Murni di FAB: Cukup ketuk FAB Hapus (🗑️) di sudut layar untuk melihat popup pesan yang ditarik beserta jamnya",
+    "Pembersihan Teks Sampah: Teks pesan bersih dari kata tombol IG ('SalinLaporkanBalas')",
+    "Semua FAB Draggable, Keyboard IME Lift, & Pull to Refresh aktif"
   ],
-  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.14/igramplus.apk"
+  "downloadUrl": "https://github.com/Bahri106/BahriGram-release/releases/download/v1.0.15/igramplus.apk"
 }
